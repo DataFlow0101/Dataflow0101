@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
   width="400" 
   src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" 
   alt="Top Langs" 
-  style="border-radius: 10px;"
+  style="border-radius: 100px;"
 />
 </div>
