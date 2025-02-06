@@ -19,5 +19,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="center">
 <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustarbek&layout=compact&theme=radical" alt="Top Langs" />
-<img height="200" width="400" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Top Langs" />
+<img 
+  height="200" 
+  width="400" 
+  src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" 
+  alt="Top Langs" 
+  style="border-radius: 10px;"
+/>
 </div>
