@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
        alt="snake" /></a>
 </div>
-<div align="center">
+<div align="center" gap=[20px]>
 <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustarbek&layout=compact&theme=radical" alt="Top Langs" />
 <img 
   height="200" 
