@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,scss,tailwind,github,npm,vite,linux," />
+  <img src="https://skillicons.dev/icons?i=js,ts,redux,react,redux,html,css,scss,tailwind,github,npm,vite,linux," />
 </p>
 
 
